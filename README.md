@@ -7,5 +7,5 @@ python application.py
 
 To access your flask application open new tab in and paste the url:
 ```
-https://blue-musician-golgr.pwskills.app:5000/predictdata
+http://127.0.0.1:5000/predictdata
 ```
